@@ -1,6 +1,4 @@
-Aqui está um modelo de README interessante para o seu projeto no GitHub:
 
----
 
 # Pets - Serviços para Animais de Estimação
 
