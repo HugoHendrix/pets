@@ -377,6 +377,8 @@ a img { margin-bottom: 15px; }
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
+.horarioContainer {top: 100px; }
+.menuFlex ul li a { padding: 8px 25px; }
 
 }
 
